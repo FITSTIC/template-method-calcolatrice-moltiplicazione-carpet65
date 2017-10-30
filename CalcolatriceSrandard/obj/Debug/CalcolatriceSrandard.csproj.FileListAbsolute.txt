@@ -1,0 +1,7 @@
+C:\Users\carmine.petruzziello\Documents\Visual Studio 2017\Projects\CalcolatriceSrandard\CalcolatriceSrandard\bin\Debug\CalcolatriceSrandard.exe.config
+C:\Users\carmine.petruzziello\Documents\Visual Studio 2017\Projects\CalcolatriceSrandard\CalcolatriceSrandard\bin\Debug\CalcolatriceSrandard.exe
+C:\Users\carmine.petruzziello\Documents\Visual Studio 2017\Projects\CalcolatriceSrandard\CalcolatriceSrandard\bin\Debug\CalcolatriceSrandard.pdb
+C:\Users\carmine.petruzziello\Documents\Visual Studio 2017\Projects\CalcolatriceSrandard\CalcolatriceSrandard\obj\Debug\CalcolatriceSrandard.csprojResolveAssemblyReference.cache
+C:\Users\carmine.petruzziello\Documents\Visual Studio 2017\Projects\CalcolatriceSrandard\CalcolatriceSrandard\obj\Debug\CalcolatriceSrandard.csproj.CoreCompileInputs.cache
+C:\Users\carmine.petruzziello\Documents\Visual Studio 2017\Projects\CalcolatriceSrandard\CalcolatriceSrandard\obj\Debug\CalcolatriceSrandard.exe
+C:\Users\carmine.petruzziello\Documents\Visual Studio 2017\Projects\CalcolatriceSrandard\CalcolatriceSrandard\obj\Debug\CalcolatriceSrandard.pdb
